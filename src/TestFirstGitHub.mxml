@@ -10,8 +10,4 @@
 		fontSize="30" horizontalCenter="0" verticalCenter="0"
 		text="hello github!"/>
 	
-	<s:Label 
-		fontSize="30" horizontalCenter="0" verticalCenter="0"
-		text="this is test message."/>
-
 </s:WindowedApplication>
