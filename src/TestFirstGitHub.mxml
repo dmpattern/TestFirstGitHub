@@ -7,7 +7,7 @@
 	</fx:Declarations>
 
 	<s:Label 
-		fontSize="30" horizontalCenter="0" verticalCenter="0"
+		fontSize="40" horizontalCenter="0" verticalCenter="0"
 		text="hello github!"/>
 	
 </s:WindowedApplication>
